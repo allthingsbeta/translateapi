@@ -13,4 +13,4 @@ Completed:
 	write the results to output.json.
 
 Pending:
-	Modify the
+	Modify the PerformTranslation to point to an actual API which can return the translated string.
